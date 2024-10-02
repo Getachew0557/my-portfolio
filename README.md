@@ -1,9 +1,5 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/Getachew0557/my-portfolio)
 
 ---
 
@@ -123,12 +119,12 @@ export const personalData = {
   phone: "+251947831668",
   address: "Addis Ababa, Ethiopia",
   github: "https://github.com/Getachew0557",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  facebook: "https://www.facebook.com/getachew.getu.923",
+  linkedIn: "https://www.linkedin.com/in/getachew-getu-9534041a4",
+  twitter: "https://twitter.com/EnyewGetu",
+  stackOverflow: "https://stackoverflow.com/users/22369535/getachew-getu-enyew",
   leetcode: "https://leetcode.com/said3812/",
-  devUsername: "getachew",
+  devUsername: "Getachew0557",
   resume: "...",
 };
 ```
@@ -153,3 +149,7 @@ export const personalData = {
 |    tailwindcss     |
 
 ---
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
